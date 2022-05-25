@@ -3,8 +3,8 @@
     "sousId": 0,
     "tokenName": "BANANA",
     "image": "BANANA.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "contractAddress": {
       "97": "0xbbC5e1cD3BA8ED639b00927115e5f0e0040aA613",
       "56": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9"
@@ -13,7 +13,7 @@
     "projectLink": "https://apeswap.finance/",
     "twitter": "https://twitter.com/ape_swap",
     "harvest": true,
-    "tokenPerBlock": "${BANANA_PER_BLOCK.toNumber() * 0.25}",
+    "tokenPerBlock": "${BANANA_PER_BLOCK.toNumber() * 0.25}", // Need to fix this
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 18
@@ -22,8 +22,8 @@
     "sousId": 21,
     "tokenName": "BANANA",
     "image": "BANANA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
       "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
@@ -40,7 +40,7 @@
   {
     "sousId": 19,
     "tokenName": "ALLOY",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "image": "ALLOY.png",
     "rewardToken": null,
     "contractAddress": {
@@ -59,7 +59,7 @@
   {
     "sousId": 20,
     "tokenName": "NAUT",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "image": "NAUT.png",
     "rewardToken": null,
     "contractAddress": {
@@ -79,8 +79,8 @@
     "sousId": 28,
     "tokenName": "JDI",
     "image": "JDI.svg",
-    "stakingToken": tokens.jdi,
-    "rewardToken": tokens.jdi,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/jdi.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/jdi.json",
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
       "56": "0xa3283C497710cbBE31d35A5cf56C315C621D6e10"
@@ -98,9 +98,9 @@
   {
     "sousId": 14,
     "tokenName": "JDI",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "image": "JDI.svg",
-    "rewardToken": tokens.jdi,
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/jdi.json",
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
       "56": "0x72C8750af0744282E065F0dF3F73460A3764c624"
@@ -119,7 +119,7 @@
     "sousId": 16,
     "tokenName": "LYPTUS",
     "image": "LYPTUS.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -139,7 +139,7 @@
     "sousId": 22,
     "tokenName": "ONT",
     "image": "ONT.png",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
@@ -158,8 +158,8 @@
     "sousId": 24,
     "tokenName": "BFT",
     "image": "BFT.svg",
-    "stakingToken": tokens.bft,
-    "rewardToken": tokens.bft,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bft.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bft.json",
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
       "56": "0x49bbB345c432b9B66b407f1525A81A84F4509b8b"
@@ -178,11 +178,11 @@
     "sousId": 29,
     "tokenName": "BINGUS",
     "image": "Bingus.png",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0x1697b103a72299d5db4e39ef28a32991c347be23",
+      "56": "0x1697b103a72299d5db4e39ef28a32991c347be23"
     },
     "poolCategory": "ApeZone",
     "projectLink": "http: //bingus.finance/",
@@ -198,11 +198,11 @@
     "sousId": 32,
     "tokenName": "WATCH",
     "image": "WATCH.png",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0x465a3782d9014e6eefccc21470c5e41b2cad9d6d",
+      "56": "0x465a3782d9014e6eefccc21470c5e41b2cad9d6d"
     },
     "poolCategory": "Core",
     "projectLink": "https://www.yieldwatch.net/",
@@ -218,11 +218,11 @@
     "sousId": 33,
     "tokenName": "KEYFI",
     "image": "KEYFI.png",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0xEedd7475Eb5D05D591bE0927B178AcBBdC5ee1c1",
+      "56": "0xEedd7475Eb5D05D591bE0927B178AcBBdC5ee1c1"
     },
     "poolCategory": "ApeZone",
     "projectLink": "https://keyfi.com/",
@@ -238,11 +238,11 @@
     "sousId": 34,
     "tokenName": "BFT",
     "image": "BFT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.bft,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bft.json",
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0x73775564d2cbad604c41d0b3ddf061e80e1d0279",
+      "56": "0x73775564d2cbad604c41d0b3ddf061e80e1d0279"
     },
     "poolCategory": "Core",
     "projectLink": "https://www.bitfresh.win",
@@ -258,11 +258,11 @@
     "sousId": 35,
     "tokenName": "NRV",
     "image": "NRV.png",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0x48ee3f7748fac3e8e4858bd0b09483c4339d3d7e",
+      "56": "0x48ee3f7748fac3e8e4858bd0b09483c4339d3d7e"
     },
     "poolCategory": "ApeZone",
     "projectLink": "https://www.nerve.fi",
@@ -278,11 +278,11 @@
     "sousId": 36,
     "tokenName": "MOONLIGHT",
     "image": "MOONLIGHT.svg",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0xe44d4786e9d367a475a0789dc618c76a2b2d05ec",
+      "56": "0xe44d4786e9d367a475a0789dc618c76a2b2d05ec"
     },
     "poolCategory": "ApeZone",
     "projectLink": "https://moonlighttoken.com/",
@@ -298,11 +298,11 @@
     "sousId": 39,
     "tokenName": "SPACE",
     "image": "SPACE.svg",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0x52634C2763a6DADA2028440d0892431b04809d88",
+      "56": "0x52634C2763a6DADA2028440d0892431b04809d88"
     },
     "poolCategory": "ApeZone",
     "projectLink": "https://aperocket.finance",
@@ -318,7 +318,7 @@
     "sousId": 46,
     "tokenName": "GMR",
     "image": "",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x0e34e04310e44329f1dafd28c9922ee4517ac397",
@@ -338,7 +338,7 @@
     "sousId": 47,
     "tokenName": "WINGS",
     "image": "WINGS.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -358,7 +358,7 @@
     "sousId": 50,
     "tokenName": "MBOX",
     "image": "MOBOX.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -378,7 +378,7 @@
     "sousId": 51,
     "tokenName": "WYVERN",
     "image": "WYVERN.png",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -397,7 +397,7 @@
     "sousId": 52,
     "tokenName": "BOG",
     "image": "BOG.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -417,8 +417,8 @@
     "sousId": 55,
     "tokenName": "LORY",
     "image": "LORY.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.lory,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lory.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x14e87345dd641a222a353d1fb0de5f0e66d0668e"
@@ -437,7 +437,7 @@
     "sousId": 56,
     "tokenName": "SCAM",
     "image": "SCAM.png",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -457,7 +457,7 @@
     "sousId": 58,
     "tokenName": "SKILL",
     "image": "SKILL.svg",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -477,11 +477,11 @@
     "sousId": 30,
     "tokenName": "bxBTC",
     "image": "bxBTC.png",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-      "56": "0xd65f1319f6408C03EBA7f27e156391784492A9EF",
+      "56": "0xd65f1319f6408C03EBA7f27e156391784492A9EF"
     },
     "poolCategory": "Core",
     "projectLink": "https://xbtc.fi/",
@@ -497,7 +497,7 @@
   {
     "sousId": 1,
     "tokenName": "BNB",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x88777a814946cd8eb80e7029eedf05cc6cf34168",
@@ -517,8 +517,8 @@
     "sousId": 62,
     "tokenName": "BISON",
     "image": "BISON.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.bison,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bison.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x5a10311f7d03a6e7ab464da54bdd535f3d4ce512"
@@ -537,7 +537,7 @@
     "sousId": 67,
     "tokenName": "CAPS",
     "image": "CAPS.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -557,7 +557,7 @@
     "sousId": 68,
     "tokenName": "BIRB",
     "image": "BIRB.svg",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -577,8 +577,8 @@
     "sousId": 69,
     "tokenName": "DINOP",
     "image": "DINOP.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.dinop,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dinop.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x82ee644a04573aebbfbf3d7fa98f20922a5c606a"
@@ -597,8 +597,8 @@
     "sousId": 72,
     "tokenName": "GUARD",
     "image": "GUARD.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.guard,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/guard.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x73d3d28cc018a89fe6518d7b5efbcfcf0695a0d9"
@@ -617,8 +617,8 @@
     "sousId": 73,
     "tokenName": "LAND",
     "image": "LAND.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.land,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/land.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x44b7e5593dfc65208a2b68c3f6c1cffd881ef6fb"
@@ -637,7 +637,7 @@
     "sousId": 74,
     "tokenName": "POTS",
     "image": "POTS.svg",
-    "stakingToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -657,8 +657,8 @@
     "sousId": 77,
     "tokenName": "CYT",
     "image": "CYT.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.cyt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/cyt.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x64fc4bf63c4315156f56b953a42bf2459b227a68"
@@ -677,8 +677,8 @@
     "sousId": 78,
     "tokenName": "HOTCROSS",
     "image": "HOTCROSS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.hotcross,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/hotcross.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x03f344ceb868841ffa262503fe1cf21b9cd5d7a8"
@@ -697,7 +697,7 @@
     "sousId": 82,
     "tokenName": "BABI",
     "image": "BABI.svg",
-    "stakingToken": tokens.gnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
     "rewardToken": null,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
@@ -717,8 +717,8 @@
     "sousId": 83,
     "tokenName": "REVV",
     "image": "REVV.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.revv,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/revv.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xa38e86fa40bff9a82bb0fdcca8002f34d08f64b9"
@@ -737,8 +737,8 @@
     "sousId": 89,
     "tokenName": "NVT",
     "image": "NVT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.nvt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nvt.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xf45d14aa2844c14ee8a06a1bff1daa99656cf65c"
@@ -757,8 +757,8 @@
     "sousId": 91,
     "tokenName": "GRO",
     "image": "GRO.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gro,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gro.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x68696e139a7bf935285ad7d0b590ccf66ba622ba"
@@ -777,8 +777,8 @@
     "sousId": 93,
     "tokenName": "CEEK",
     "image": "CEEK.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ceek,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ceek.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xda04ae1d4651e63c130921c6227397d58dd9167a"
@@ -797,8 +797,8 @@
     "sousId": 97,
     "tokenName": "YDR",
     "image": "YDR.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ydr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ydr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xb5bb4897cb8024281732c36d8a438aab5b11ef19"
@@ -817,8 +817,8 @@
     "sousId": 98,
     "tokenName": "ONG",
     "image": "ONG.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.ong,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ong.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x08b86811dcee75a37790dc28f3ad09776215ba7a"
@@ -837,8 +837,8 @@
     "sousId": 101,
     "tokenName": "DEP",
     "image": "DEP.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.dep,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dep.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xdbb5df464f245d3b62b5fea995580f837f87fc12"
@@ -857,8 +857,8 @@
     "sousId": 103,
     "tokenName": "TXL",
     "image": "TXL.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.txl,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/txl.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x03643a66e0a121839d230364fab392aa583cb984"
@@ -877,8 +877,8 @@
     "sousId": 106,
     "tokenName": "POTS",
     "image": "POTS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.pots,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/pots.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x84cda09920232b5b138180b55759b218bf243645"
@@ -897,8 +897,8 @@
     "sousId": 107,
     "tokenName": "FRMx",
     "image": "FRMX.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.frmx,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/frmx.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xac19462e8c9207cd1613292b93b5f7c65f1a597a"
@@ -917,8 +917,8 @@
     "sousId": 110,
     "tokenName": "SX",
     "image": "SX.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.sx,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/sx.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc6215d86a4bb470667d54c316624a3c45504bc31"
@@ -937,8 +937,8 @@
     "sousId": 111,
     "tokenName": "ROCKI",
     "image": "ROCKI.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.rocks,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/rocks.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x5d8b37C42c34CA1661dB227B5484726d89040702"
@@ -957,8 +957,8 @@
     "sousId": 112,
     "tokenName": "GUMMY",
     "image": "GUMMY.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gummy,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gummy.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc8ff8674a03672c36d6b5e2cbbf8f7967b14aef6"
@@ -977,8 +977,8 @@
     "sousId": 113,
     "tokenName": "DCB",
     "image": "DCB.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.dcb,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dcb.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x7b4459a0ce06f2ebb8b145add6620ae06ff225ed"
@@ -997,8 +997,8 @@
     "sousId": 114,
     "tokenName": "NFTY",
     "image": "NFTY.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.nfty,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nfty.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x946a0e7b410cfc4e225a3e9f09a93259747b0903"
@@ -1017,8 +1017,8 @@
     "sousId": 115,
     "tokenName": "AUR",
     "image": "AUR.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.aur,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/aur.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x96034cd42b0eaa1a6dae20e1a13824aede3ba1f0"
@@ -1037,8 +1037,8 @@
     "sousId": 116,
     "tokenName": "SEFI",
     "image": "SEFI.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.sefi,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/sefi.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x122365722070a9ca5d12040e511bb90f722b915c"
@@ -1057,8 +1057,8 @@
     "sousId": 117,
     "tokenName": "KALA",
     "image": "KALA.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.kala,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/kala.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x3902e6220c8425dcfb86118413481c6a625b28ba"
@@ -1077,8 +1077,8 @@
     "sousId": 118,
   "tokenName": "IHC",
     "image": "IHC.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ihc,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ihc.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x155bd20237a70994364723e44416fd602b8d0991"
@@ -1097,8 +1097,8 @@
     "sousId": 119,
     "tokenName": "AIRT",
     "image": "AIRT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.airt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/airt.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x3c765c830a082944f4b69052670d41cf5b513846"
@@ -1117,8 +1117,8 @@
     "sousId": 120,
     "tokenName": "PROS",
     "image": "PROS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.pros,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/pros.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x96d643e487e408c59c10b654976567aa2f1a16d3"
@@ -1137,8 +1137,8 @@
     "sousId": 121,
     "tokenName": "THG",
     "image": "THG.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.thg,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/thg.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xcf44a7c1d8277b27c47195f0907a5b93e63d3dd0"
@@ -1157,8 +1157,8 @@
     "sousId": 122,
     "tokenName": "WSG",
     "image": "WSG.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.wsg,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wsg.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xde99115c3f8ee876b5520779665088f70f647a6d"
@@ -1177,8 +1177,8 @@
     "sousId": 124,
     "tokenName": "OTAKU",
     "image": "OTAKU.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.otaku,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/otaku.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xcfae247209b2f3c175ddaca619a7874447e534cd"
@@ -1197,8 +1197,8 @@
     "sousId": 125,
     "tokenName": "TNNS",
     "image": "TNNS.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.tnns,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/tnns.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x8b82c8a380a4c7edd68a4df2d4b09a52b5704c3b"
@@ -1217,8 +1217,8 @@
     "sousId": 126,
     "tokenName": "KING",
     "image": "KING.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.king,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/king.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x824b23f47da94055434242c1100dfa71cc691f83"
@@ -1237,8 +1237,8 @@
     "sousId": 127,
     "tokenName": "MBIRD",
     "image": "MBIRD.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.mbird,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/mbird.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x0a935f40a288cb67ee86565a2b1113f5c7fe481d"
@@ -1257,8 +1257,8 @@
     "sousId": 128,
     "tokenName": "BBNANA",
     "image": "BBNANA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.bbnana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bbnana.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x0f1c37bea4984cf57e850929e839782e33790c8d"
@@ -1277,8 +1277,8 @@
     "sousId": 129,
     "tokenName": "TOWER",
     "image": "TOWER.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.tower,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/tower.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x07f874ad2b3546164a33f4b6c27494ac9c1d3323"
@@ -1297,8 +1297,8 @@
     "sousId": 130,
     "tokenName": "OASIS",
     "image": "OASIS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.oasis,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/oasis.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x9B5919a87d727e17A1fa9116E4547A52A7f159ea"
@@ -1317,8 +1317,8 @@
     "sousId": 131,
     "tokenName": "TOON",
     "image": "TOON.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.toon,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/toon.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x1e20b8629602a28065f1daacf6155456063de290"
@@ -1337,8 +1337,8 @@
     "sousId": 132,
     "tokenName": "WING",
     "image": "WING.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.wing,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wing.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x656e0f20509b3eb04dbccae5a0e6c2a08e615e20"
@@ -1357,8 +1357,8 @@
     "sousId": 133,
     "tokenName": "GAN",
     "image": "GAN.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gan,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gan.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xea5b77b22bd939b8196587d2bb9d8b5e0e497b74"
@@ -1377,8 +1377,8 @@
     "sousId": 134,
     "tokenName": "BCPAY",
     "image": "BCPAY.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.bcpay,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bcpay.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xb83D0cE7335CaF7c59e7B9727916C0e98b74cb49"
@@ -1397,8 +1397,8 @@
     "sousId": 135,
     "tokenName": "iBFR",
     "image": "iBFR.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ibfr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ibfr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x004D7f0661fF6e1420fE311Bca57C1D89C9751BA"
@@ -1417,8 +1417,8 @@
     "sousId": 136,
     "tokenName": "SATA",
     "image": "SATA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.sata,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/sata.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x4AC61236F70bC24eDf6be97746672ab564641258"
@@ -1437,8 +1437,8 @@
     "sousId": 137,
     "tokenName": "LICO",
     "image": "LICO.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.lico,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lico.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x7077d94ca36cdcce214a9073fe9e4a865332bfc2"
@@ -1457,8 +1457,8 @@
     "sousId": 138,
     "tokenName": "LIME",
     "image": "LIME.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.lime,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lime.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x2dC448eF0Af4cDc299D2085CBC439459243E14aE"
@@ -1477,8 +1477,8 @@
     "sousId": 139,
     "tokenName": "FXS",
     "image": "FXS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.fxs,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/fxs.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x565478B15dDABCDAf8B42528a0bD6a1c04ce070b"
@@ -1497,8 +1497,8 @@
     "sousId": 140,
     "tokenName": "RELAY",
     "image": "RELAY.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.relay,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/relay.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xd95bBDEDE9ECbC2410bd78a66ded971BF3E8ff47"
@@ -1517,8 +1517,8 @@
     "sousId": 141,
     "tokenName": "QUIDD",
     "image": "QUIDD.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.quidd,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/quidd.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x7de443badcfcf49417864f70fe7734b8144082f1"
@@ -1537,8 +1537,8 @@
     "sousId": 142,
     "tokenName": "MONI",
     "image": "MONI.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.moni,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/moni.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc69a306e50b8ee373155746a0b6d457af4035d4b"
@@ -1557,8 +1557,8 @@
     "sousId": 143,
     "tokenName": "INFO",
     "image": "INFO.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.info,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/info.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x2Af85A532859aF6f30076197D91eEEb593C0FeB1"
@@ -1577,8 +1577,8 @@
     "sousId": 144,
     "tokenName": "SHILL",
     "image": "SHILL.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.shill,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/shill.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x5E4Aa216B9e748e83D02b1F0334A0B8EB5ee9c32"
@@ -1597,8 +1597,8 @@
     "sousId": 145,
     "tokenName": "LMN",
     "image": "LMN.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.lmn,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lmn.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x387021bA95c80856Be8B061533c67b47b5c148a6"
@@ -1617,8 +1617,8 @@
     "sousId": 147,
     "tokenName": "HERA",
     "image": "HERA.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.hera,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/hera.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xB49baE5D0230A3D57C6CAFEab71a418CF62e4813"
@@ -1637,8 +1637,8 @@
     "sousId": 148,
     "tokenName": "GMEE",
     "image": "GMEE.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gmee,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gmee.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x61713875F0759803DD1C7e2a83ACd11265Ff80BB"
@@ -1657,8 +1657,8 @@
     "sousId": 149,
     "tokenName": "ARV",
     "image": "ARV.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.arv,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/arv.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc00EAbba05a314E52653fAB3fdB4861C7B11535F"
@@ -1677,8 +1677,8 @@
     "sousId": 150,
     "tokenName": "rASKO",
     "image": "rASKO.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.rasko,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/rasko.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xC4527Fb81764E632509234cE78F5C91cc86C7162"
@@ -1697,8 +1697,8 @@
     "sousId": 151,
     "tokenName": "PEL",
     "image": "PEL.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.pel,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/pel.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xEc197AA9202a9111618BaA7a23b6A7Cd7B6Ea7d7"
@@ -1717,8 +1717,8 @@
     "sousId": 152,
     "tokenName": "STZ",
     "image": "STZ.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.stz,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/stz.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xe505e0142e3ea84e4e6ed006d9b264688374ec7b"
@@ -1737,8 +1737,8 @@
     "sousId": 153,
     "tokenName": "QA",
     "image": "QA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.qa,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/qa.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x008fd008A139187aD57DD7E030BE00252E3eD757"
@@ -1757,8 +1757,8 @@
     "sousId": 154,
     "tokenName": "LOA",
     "image": "LOA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.loa,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/loa.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x45d94C84cd5d150F1D6037f35f4dcaA6e1369ae8"
@@ -1777,8 +1777,8 @@
     "sousId": 155,
     "tokenName": "ADS",
     "image": "ADS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ads,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ads.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x66a17DAcE2d77f036422BDD50F3A20579613f5C0"
@@ -1797,8 +1797,8 @@
     "sousId": 156,
     "tokenName": "KAI",
     "image": "KAI.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.kai,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/kai.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x3b15B487902Bb10Cba34c489Cb35AC342F73Cff2"
@@ -1817,8 +1817,8 @@
     "sousId": 157,
     "tokenName": "DOSE",
     "image": "DOSE.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.dose,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dose.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xd0378c1b37D530a00E91764A7a41EfEB3d6A5fbC"
@@ -1837,8 +1837,8 @@
     "sousId": 158,
     "tokenName": "ORE",
     "image": "ORE.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ore,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ore.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x633dd43b5f056ab9362162894f1e451f4d704681"
@@ -1857,8 +1857,8 @@
     "sousId": 159,
     "tokenName": "MYRA",
     "image": "MYRA.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.myra,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/myra.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x18d9d84e6649fe0f3e60c338ff5a9e96d5f85702"
@@ -1877,8 +1877,8 @@
     "sousId": 160,
     "tokenName": "GODZ",
     "image": "GODZ.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.godz,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/godz.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x8b91f9584dD43Ba4aEd7729b33aA1D459af1c5cc"
@@ -1897,8 +1897,8 @@
     "sousId": 161,
     "tokenName": "MNFT",
     "image": "MNFT.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.mnft,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/mnft.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xe4d4ffd1c58d21858f0a8cf915aa2b422740328d"
@@ -1917,8 +1917,8 @@
     "sousId": 162,
     "tokenName": "GMR",
     "image": "GMR2.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.gmr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gmr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x8966eda482ca1559cfea937da58f217fd1f2a468"
@@ -1937,8 +1937,8 @@
     "sousId": 163,
     "tokenName": "ONT",
     "image": "ONT.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.ont,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ont.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xb28d423765c7c906a3e55af54cea716c97df1f8d"
@@ -1957,8 +1957,8 @@
     "sousId": 164,
     "tokenName": "ONG",
     "image": "ONG.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.ong,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ong.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc573890a14b3dddffade9a2bd7e6bada160724b6"
@@ -1977,8 +1977,8 @@
     "sousId": 165,
     "tokenName": "NAUT",
     "image": "NAUT.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.naut,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/naut.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xcFA6CAEd7E2eCB4411254B1444E31dE43824b3E8"
@@ -1997,8 +1997,8 @@
     "sousId": 166,
     "tokenName": "ZIG",
     "image": "ZIG.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.zig,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/zig.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xEbd0Cd94DC2BE20575EcdC0370a7d9A2c1AeD40c"
@@ -2017,8 +2017,8 @@
     "sousId": 167,
     "tokenName": "DEP",
     "image": "DEP.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.dep,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dep.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xca676dfEbcfC16bF0aA10e7D6291E92F69c61f50"
@@ -2037,8 +2037,8 @@
     "sousId": 168,
     "tokenName": "MOONLIGHT",
     "image": "MOONLIGHT.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.moonlight,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/moonlight.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xaaF270fb5Ffa43ea2F49DE261E805D1efF06FDEE"
@@ -2057,8 +2057,8 @@
     "sousId": 169,
     "tokenName": "LAND",
     "image": "LAND.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.land,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/land.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x4CA13C1b85211aBC06455a164A15a2Ef6a1733E0"
@@ -2077,8 +2077,8 @@
     "sousId": 170,
     "tokenName": "SPACE",
     "image": "SPACE.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.space,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/space.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x31BA18dF9a445D2E01Aa55B393cde86b149CBC4A"
@@ -2097,8 +2097,8 @@
     "sousId": 171,
     "tokenName": "WATCH",
     "image": "WATCH.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.watch,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/watch.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xb0329d2A9BA4BC1ff7D4944412EF8DF0D4bDF304"
@@ -2117,8 +2117,8 @@
     "sousId": 172,
     "tokenName": "LMT",
     "image": "LMT.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.lmt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lmt.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x9f3Fa4d728F26C9bb53a0641C51A5657544E257A"
@@ -2137,8 +2137,8 @@
     "sousId": 173,
     "tokenName": "GMR",
     "image": "GMR2.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gmr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gmr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x24CD8C40d0B47Fd0E12D03A0d56fFfD44dD31f3F"
@@ -2157,8 +2157,8 @@
     "sousId": 174,
     "tokenName": "TXL",
     "image": "TXL.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.txl,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/txl.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x57f626abfc72b914e68def65c3e1f27a59225cc3"
@@ -2177,8 +2177,8 @@
     "sousId": 175,
     "tokenName": "BCMC",
     "image": "BCMC.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.bcmc,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bcmc.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xb1c0a6518b766809dac889f2e49134864ea2cb57"
@@ -2197,8 +2197,8 @@
     "sousId": 176,
     "tokenName": "ARI",
     "image": "ARI.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.ari,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ari.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x00262752032F07C51216B57909F175C972002393"
@@ -2217,8 +2217,8 @@
     "sousId": 177,
     "tokenName": "NFTY",
     "image": "NFTY2.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.nfty2,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nfty2.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x0F555e92e9470d064F8A6D0b97a2E3F7d26A222d"
@@ -2237,8 +2237,8 @@
     "sousId": 178,
     "tokenName": "LUNR",
     "image": "LUNR.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.lunr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lunr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xFdE855148B160F203761569A9c0A8a1aA7d565B3"
@@ -2257,8 +2257,8 @@
     "sousId": 179,
     "tokenName": "TRUSTNFT",
     "image": "TRUSTNFT.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.trustnft,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/trustnft.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x7f3cece71e89137911da0b20bdd5cfe0e0c8b7f5"
@@ -2277,8 +2277,8 @@
     "sousId": 180,
     "tokenName": "WGICT - Inactive",
     "image": "WGICT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.wgict,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wgict.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x4853D276Bd747227E05698DB832b87d7B7C76079"
@@ -2297,8 +2297,8 @@
     "sousId": 181,
     "tokenName": "MNFT",
     "image": "MNFT.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.mnft,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/mnft.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x7a13FEb86802f979B536b8706C7c598ef2812294"
@@ -2317,8 +2317,8 @@
     "sousId": 182,
     "tokenName": "BUZZ",
     "image": "BUZZ.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.buzz,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/buzz.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x6e4Ac7608ADA81F740090Df60b585bd12B30F77C"
@@ -2337,8 +2337,8 @@
     "sousId": 183,
     "tokenName": "RANKER",
     "image": "RANKER.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.ranker,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ranker.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc5a313375D986Ee70FA51a4890aEB8EeB8A5D33B"
@@ -2357,8 +2357,8 @@
     "sousId": 185,
     "tokenName": "WGICT",
     "image": "WGICT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.wgict,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wgict.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x5011c848cf4f6ff10085466de76257ac2adc1381"
@@ -2377,8 +2377,8 @@
     "sousId": 187,
     "tokenName": "HOTCROSS",
     "image": "HOTCROSS.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.hotcross,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/hotcross.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x448B5c60baa2E7D85334706494845b71F07151EE"
@@ -2397,8 +2397,8 @@
     "sousId": 188,
     "tokenName": "FRONT",
     "image": "FRONT.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.front,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/front.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x1f875b9Be60b7bccac6555D5f9fc931Ae5Ff032B"
@@ -2417,8 +2417,8 @@
     "sousId": 190,
     "tokenName": "ANML",
     "image": "ANML.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.anml,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/anml.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x363f3b8471223f66a09f65f1253cd41be916fb51"
@@ -2437,8 +2437,8 @@
     "sousId": 193,
     "tokenName": "BOUNTIE",
     "image": "BOUNTIE.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.bountie,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bountie.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x59A4B153D080E3066236e57f6Bd66Ad241eb0269"
@@ -2457,8 +2457,8 @@
     "sousId": 194,
     "tokenName": "DEP",
     "image": "DEP.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.dep,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/dep.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x75768Ea1A1C3c84121063f7A281ee3081dB1D8Ef"
@@ -2477,8 +2477,8 @@
     "sousId": 195,
     "tokenName": "ANKR",
     "image": "ANKR.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.ankr,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ankr.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x57dDbdC52e402d7F2Fffef9FEEC82CBBCD361f87"
@@ -2497,8 +2497,8 @@
     "sousId": 196,
     "tokenName": "KTE",
     "image": "KTE.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.kte,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/kte.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x3ece92fa22766d4a514cddace768d085e75e59cf"
@@ -2517,8 +2517,8 @@
     "sousId": 197,
     "tokenName": "GQ",
     "image": "GQ.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.gq,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gq.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xA6B0f91e3eda93Db4266416CC43Ea4E35149D0dF"
@@ -2537,8 +2537,8 @@
     "sousId": 198,
     "tokenName": "ASPO",
     "image": "ASPO.png",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.aspo,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/aspo.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xf2f96bb2850Ea1125Cf5f2c930A4aC51abE37fd4"
@@ -2557,8 +2557,8 @@
     "sousId": 199,
     "tokenName": "BICO",
     "image": "BICO.svg",
-    "stakingToken": tokens.banana,
-    "rewardToken": tokens.bico,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/bico.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x623eb348969ed6512005efbf3716e5e1919562aa"
@@ -2577,8 +2577,8 @@
     "sousId": 200,
     "tokenName": "CPO",
     "image": "CPO.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.cpo,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/cpo.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x0ADBa369180802282C921F18879Bc40305D92dA4"
@@ -2597,8 +2597,8 @@
     "sousId": 202,
     "tokenName": "Froyo",
     "image": "Froyo.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.froyo,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/froyo.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x59258b42648486C3A3DF24a526996f82F526a9a3"
@@ -2617,8 +2617,8 @@
     "sousId": 203,
     "tokenName": "PRIMATE",
     "image": "PRIMATE.png",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.primate,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/primate.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc5EA4c201F9D9E052e197811a7bbDd56680F8Fcd"
@@ -2637,8 +2637,8 @@
     "sousId": 205,
     "tokenName": "GRVS",
     "image": "GRVS.svg",
-    "stakingToken": tokens.gnana,
-    "rewardToken": tokens.grvs,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/gnana.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/grvs.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x1B40F1B7E871C0de135AF42E15015d16988310ee"
@@ -2657,11 +2657,11 @@
     "sousId": 204,
     "tokenName": "LC-BNB",
     "image": "LC.svg",
-    "stakingToken": tokens.lcBnb,
-    "rewardToken": tokens.lc,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lcBnb.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lc.json",
     "lpTokens": {
-      "token": tokens.lc,
-      "quoteToken": tokens.wbnb
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/lc.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wbnb.json"
     },
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -2681,11 +2681,11 @@
     "sousId": 201,
     "tokenName": "COC-BNB",
     "image": "COC.svg",
-    "stakingToken": tokens.cocBnb,
-    "rewardToken": tokens.coc,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/cocBnb.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/coc.json",
     "lpTokens": {
-      "token": tokens.coc,
-      "quoteToken": tokens.wbnb
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/coc.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wbnb.json"
     },
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -2705,12 +2705,12 @@
     "sousId": 184,
     "tokenName": "WGICT-USDT",
     "image": "WGICT.svg",
-    "stakingToken": tokens.wgictUsdt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wgictUsdt.json",
     "lpTokens": {
-      "token": tokens.wgict,
-      "quoteToken": tokens.usdt
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wgict.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/usdt.json"
     },
-    "rewardToken": tokens.wgict,
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wgict.json",
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
       "56": "0xe4417357b022224736ca845856917aaae912c0bd"
@@ -2729,11 +2729,11 @@
     "sousId": 186,
     "tokenName": "NFT11-BUSD",
     "image": "NFT11.png",
-    "stakingToken": tokens.nft11Busd,
-    "rewardToken": tokens.nft11,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nft11Busd.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nft11.json",
     "lpTokens": {
-      "token": tokens.nft11,
-      "quoteToken": tokens.busd
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/nft11.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/busd.json"
     },
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -2753,11 +2753,11 @@
     "sousId": 189,
     "tokenName": "RUBY-BNB",
     "image": "RUBY.svg",
-    "stakingToken": tokens.rubyBnb,
-    "rewardToken": tokens.ruby,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/rubyBnb.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ruby.json",
     "lpTokens": {
-      "token": tokens.ruby,
-      "quoteToken": tokens.wbnb
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/ruby.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/wbnb.json"
     },
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -2777,11 +2777,11 @@
     "sousId": 191,
     "tokenName": "DRF-BUSD",
     "image": "DRF.svg",
-    "stakingToken": tokens.drfBusd,
-    "rewardToken": tokens.drf,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/drfBusd.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/drf.json",
     "lpTokens": {
-      "token": tokens.drf,
-      "quoteToken": tokens.busd
+      "token": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/drf.json",
+      "quoteToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/busd.json"
     },
     "contractAddress": {
       "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
@@ -2801,8 +2801,8 @@
     "sousId": 123,
     "tokenName": "CYT",
     "image": "CYT.svg",
-    "stakingToken": tokens.obie,
-    "rewardToken": tokens.cyt,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/obie.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/cyt.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xcd40fbe9eabc34faa59341c36c628e8867a22943"
@@ -2822,8 +2822,8 @@
     "sousId": 96,
     "tokenName": "BANANA",
     "image": "BANANA.svg",
-    "stakingToken": tokens.obie,
-    "rewardToken": tokens.banana,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/obie.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/banana.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xf1aFc0bfdf33BC74b9896612eAA38058cADfF8f0"
@@ -2842,8 +2842,8 @@
     "sousId": 192,
     "tokenName": "ANML",
     "image": "ANML.png",
-    "stakingToken": tokens.obie,
-    "rewardToken": tokens.anml,
+    "stakingToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/obie.json",
+    "rewardToken": "https://raw.githubusercontent.com/babadrape/apeswap-yields/gh-pages/config/tokens/anml.json",
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x5a92DDA1338073065Ef142fD02e3Af2Ebfb07212"
