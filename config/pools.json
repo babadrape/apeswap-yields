@@ -31,7 +31,7 @@
     "projectLink": "https://apeswap.finance/",
     "twitter": "https://twitter.com/ape_swap",
     "harvest": true,
-    "tokenPerBlock": 2500000000000000000,
+    "tokenPerBlock": "2.5",
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 18
