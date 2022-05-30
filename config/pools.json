@@ -5244,6 +5244,120 @@
     "bonusEndBlock": 20798360
   },
   {
+    "sousId": 207,
+    "tokenName": "ROOBEE",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROOBEE.svg",
+    "stakingToken": {
+      "symbol": "GNANA",
+      "address": {
+        "97": "0xf693bDA9D3C56D5F9165c8633d9098e3C4Ae495A",
+        "56": "0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "ROOBEE",
+      "address": {
+        "56": "0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D"
+      },
+      "decimals": 18
+    },
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x3490F8a48B421647E853DF8Ec82610Ac60bBD727"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://roobee.io/",
+    "twitter": "https://twitter.com/Roobee_invest",
+    "harvest": true,
+    "tokenPerBlock": "10.7421875",
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "chainId": 56,
+    "name": "GNANA -> ROOBEE",
+    "rewardPerBlock": 10742187500000000000,
+    "startBlock": 18058550,
+    "bonusEndBlock": 24970550
+  },
+  {
+    "sousId": 208,
+    "tokenName": "VTG",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VTG.svg",
+    "stakingToken": {
+      "symbol": "GNANA",
+      "address": {
+        "97": "0xf693bDA9D3C56D5F9165c8633d9098e3C4Ae495A",
+        "56": "0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "VTG",
+      "address": {
+        "56": "0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46"
+      },
+      "decimals": 18
+    },
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x78A81CC8a83DDe46B352Ab7e478C1Ebe087CD5b6"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://olympicgamesjam.nwayplay.com/",
+    "twitter": "https://twitter.com/OlympicGamesJam",
+    "harvest": true,
+    "tokenPerBlock": "3.858024691358024691",
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "chainId": 56,
+    "name": "GNANA -> VTG",
+    "rewardPerBlock": 3858024691358024691,
+    "startBlock": 18082461,
+    "bonusEndBlock": 23266461
+  },
+  {
+    "sousId": 209,
+    "tokenName": "TLOS",
+    "image": "TLOS.svg",
+    "stakingToken": {
+      "symbol": "GNANA",
+      "address": {
+        "97": "0xf693bDA9D3C56D5F9165c8633d9098e3C4Ae495A",
+        "56": "0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "TLOS",
+      "address": {
+        "56": "0xb6C53431608E626AC81a9776ac3e999c5556717c"
+      },
+      "decimals": 18
+    },
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x03BC491529B6443b263398A366E4424f6F669224"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.telos.net/",
+    "twitter": "https://twitter.com/HelloTelos",
+    "harvest": true,
+    "tokenPerBlock": "0.028645833330000000",
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "chainId": 56,
+    "name": "GNANA -> TLOS",
+    "rewardPerBlock": 28645833330000000,
+    "startBlock": 18120671,
+    "bonusEndBlock": 23304671
+  },
+  {
     "sousId": 204,
     "tokenName": "LC-BNB",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC2.png",
