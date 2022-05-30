@@ -159,8 +159,7 @@
     "name": "BANANA -> NAUT Reward Pool",
     "startBlock": "",
     "bonusEndBlock": "",
-    "rewardPerBlock": "",
-    "abi": ""
+    "rewardPerBlock": ""
   },
   {
     "sousId": 28,
@@ -1564,8 +1563,7 @@
     "name": "GNANA --> GRO",
     "rewardPerBlock": 6172839506172839,
     "startBlock": 10548578,
-    "bonusEndBlock": 11844578,
-    "abi": ""
+    "bonusEndBlock": 11844578
   },
   {
     "sousId": 93,
@@ -1603,8 +1601,7 @@
     "name": "GNANA --> ZIG",
     "rewardPerBlock": 15432098765432098765,
     "startBlock": 10605421,
-    "bonusEndBlock": 11901421,
-    "abi": ""
+    "bonusEndBlock": 11901421
   },
   {
     "sousId": 97,
@@ -1642,8 +1639,7 @@
     "name": "GNANA --> YDR",
     "rewardPerBlock": 1311728395061728395,
     "startBlock": 10691245,
-    "bonusEndBlock": 11987245,
-    "abi": ""
+    "bonusEndBlock": 11987245
   },
   {
     "sousId": 98,
@@ -1683,8 +1679,7 @@
     "name": "BANANA --> ONG",
     "rewardPerBlock": 50321759,
     "startBlock": 10719829,
-    "bonusEndBlock": 12015829,
-    "abi": ""
+    "bonusEndBlock": 12015829
   },
   {
     "sousId": 101,
@@ -1724,8 +1719,7 @@
     "name": "BANANA --> DEP",
     "rewardPerBlock": 14081790123456790123,
     "startBlock": 10805110,
-    "bonusEndBlock": 13397110,
-    "abi": ""
+    "bonusEndBlock": 13397110
   },
   {
     "sousId": 103,
@@ -1765,8 +1759,7 @@
     "name": "BANANA --> TXL",
     "rewardPerBlock": 330932291666666666,
     "startBlock": 10856023,
-    "bonusEndBlock": 12584023,
-    "abi": ""
+    "bonusEndBlock": 12584023
   },
   {
     "sousId": 106,
@@ -1804,8 +1797,7 @@
     "name": "GNANA --> POTS",
     "rewardPerBlock": 13611111111111111,
     "startBlock": 10919463,
-    "bonusEndBlock": 11783463,
-    "abi": ""
+    "bonusEndBlock": 11783463
   },
   {
     "sousId": 107,
@@ -1843,8 +1835,7 @@
     "name": "GNANA --> FRMX",
     "rewardPerBlock": 11226851851851,
     "startBlock": 10948235,
-    "bonusEndBlock": 12676235,
-    "abi": ""
+    "bonusEndBlock": 12676235
   },
   {
     "sousId": 110,
@@ -1884,8 +1875,7 @@
     "name": "GNANA --> SX",
     "rewardPerBlock": 263310185185185185,
     "startBlock": 11063154,
-    "bonusEndBlock": 12791154,
-    "abi": ""
+    "bonusEndBlock": 12791154
   },
   {
     "sousId": 111,
@@ -1923,8 +1913,7 @@
     "name": "GNANA --> ROCKI",
     "rewardPerBlock": 83964583333333333,
     "startBlock": 11206186,
-    "bonusEndBlock": 15526186,
-    "abi": ""
+    "bonusEndBlock": 15526186
   },
   {
     "sousId": 112,
@@ -1962,8 +1951,7 @@
     "name": "GNANA --> GUMMY",
     "rewardPerBlock": 1374421296296296000,
     "startBlock": 11234750,
-    "bonusEndBlock": 16418750,
-    "abi": ""
+    "bonusEndBlock": 16418750
   },
   {
     "sousId": 113,
@@ -2001,8 +1989,7 @@
     "name": "GNANA --> DCB",
     "rewardPerBlock": 1924189814814814814,
     "startBlock": 11349060,
-    "bonusEndBlock": 13941060,
-    "abi": ""
+    "bonusEndBlock": 13941060
   },
   {
     "sousId": 114,
@@ -2040,8 +2027,7 @@
     "name": "GNANA --> NFTY",
     "rewardPerBlock": 6944444444444444444,
     "startBlock": 11371406,
-    "bonusEndBlock": 16555406,
-    "abi": ""
+    "bonusEndBlock": 16555406
   },
   {
     "sousId": 115,
@@ -2081,8 +2067,7 @@
     "name": "BANANA --> AUR",
     "rewardPerBlock": 9620949074074074074,
     "startBlock": 11434630,
-    "bonusEndBlock": 14026630,
-    "abi": ""
+    "bonusEndBlock": 14026630
   },
   {
     "sousId": 116,
@@ -2122,8 +2107,7 @@
     "name": "BANANA --> SEFI",
     "rewardPerBlock": 885127,
     "startBlock": 11491650,
-    "bonusEndBlock": 14083650,
-    "abi": ""
+    "bonusEndBlock": 14083650
   },
   {
     "sousId": 117,
@@ -2163,8 +2147,7 @@
     "name": "BANANA --> KALA",
     "rewardPerBlock": 60892361111111111,
     "startBlock": 11520441,
-    "bonusEndBlock": 13248441,
-    "abi": ""
+    "bonusEndBlock": 13248441
   },
   {
     "sousId": 118,
@@ -2202,8 +2185,7 @@
     "name": "GNANA --> IHC",
     "rewardPerBlock": 23098493287037037037,
     "startBlock": 11606737,
-    "bonusEndBlock": 13766737,
-    "abi": ""
+    "bonusEndBlock": 13766737
   },
   {
     "sousId": 119,
@@ -2243,8 +2225,7 @@
     "name": "BANANA --> AIRT",
     "rewardPerBlock": 1303447916666666666,
     "startBlock": 11664057,
-    "bonusEndBlock": 13392057,
-    "abi": ""
+    "bonusEndBlock": 13392057
   },
   {
     "sousId": 120,
@@ -2317,8 +2298,7 @@
     "name": "BANANA --> THG",
     "rewardPerBlock": 25462962962962962,
     "startBlock": 11720672,
-    "bonusEndBlock": 14312672,
-    "abi": ""
+    "bonusEndBlock": 14312672
   },
   {
     "sousId": 122,
@@ -2358,8 +2338,7 @@
     "name": "BANANA --> WSG",
     "rewardPerBlock": 570041232638888888888888,
     "startBlock": 11777612,
-    "bonusEndBlock": 15233612,
-    "abi": ""
+    "bonusEndBlock": 15233612
   },
   {
     "sousId": 124,
@@ -2397,8 +2376,7 @@
     "name": "GNANA --> OTAKU",
     "rewardPerBlock": 1316145833333333333,
     "startBlock": 11802141,
-    "bonusEndBlock": 13962141,
-    "abi": ""
+    "bonusEndBlock": 13962141
   },
   {
     "sousId": 125,
@@ -2436,8 +2414,7 @@
     "name": "GNANA --> TNNS",
     "rewardPerBlock": 76967592592592592,
     "startBlock": 11835020,
-    "bonusEndBlock": 17019020,
-    "abi": ""
+    "bonusEndBlock": 17019020
   },
   {
     "sousId": 126,
@@ -2475,8 +2452,7 @@
     "name": "GNANA --> KING",
     "rewardPerBlock": 128603009250000000,
     "startBlock": 11863607,
-    "bonusEndBlock": 14455607,
-    "abi": ""
+    "bonusEndBlock": 14455607
   },
   {
     "sousId": 127,
@@ -2514,8 +2490,7 @@
     "name": "GNANA --> MBIRD",
     "rewardPerBlock": 57870370370370370,
     "startBlock": 11892261,
-    "bonusEndBlock": 14484261,
-    "abi": ""
+    "bonusEndBlock": 14484261
   },
   {
     "sousId": 128,
@@ -2553,8 +2528,7 @@
     "name": "GNANA --> BBNANA",
     "rewardPerBlock": 28862847222222222222,
     "startBlock": 12005363,
-    "bonusEndBlock": 17189363,
-    "abi": ""
+    "bonusEndBlock": 17189363
   },
   {
     "sousId": 129,
@@ -2594,8 +2568,7 @@
     "name": "BANANA --> TOWER",
     "rewardPerBlock": 1111585214120370370,
     "startBlock": 12062259,
-    "bonusEndBlock": 17246259,
-    "abi": ""
+    "bonusEndBlock": 17246259
   },
   {
     "sousId": 130,
@@ -2633,8 +2606,7 @@
     "name": "GNANA --> OASIS",
     "rewardPerBlock": 16855902777777777,
     "startBlock": 12148271,
-    "bonusEndBlock": 16468271,
-    "abi": ""
+    "bonusEndBlock": 16468271
   },
   {
     "sousId": 131,
@@ -2672,8 +2644,7 @@
     "name": "GNANA --> TOON",
     "rewardPerBlock": 165343750000000000,
     "startBlock": 12204038,
-    "bonusEndBlock": 15660038,
-    "abi": ""
+    "bonusEndBlock": 15660038
   },
   {
     "sousId": 132,
@@ -2713,8 +2684,7 @@
     "name": "BANANA --> WING",
     "rewardPerBlock": 2113985,
     "startBlock": 12338557,
-    "bonusEndBlock": 14930557,
-    "abi": ""
+    "bonusEndBlock": 14930557
   },
   {
     "sousId": 133,
@@ -2752,8 +2722,7 @@
     "name": "GNANA --> GAN",
     "rewardPerBlock": 9645061728395061728,
     "startBlock": 12379428,
-    "bonusEndBlock": 17563428,
-    "abi": ""
+    "bonusEndBlock": 17563428
   },
   {
     "sousId": 134,
@@ -2791,8 +2760,7 @@
     "name": "GNANA --> BCPAY",
     "rewardPerBlock": 48104745,
     "startBlock": 12427975,
-    "bonusEndBlock": 17611975,
-    "abi": ""
+    "bonusEndBlock": 17611975
   },
   {
     "sousId": 135,
@@ -2830,8 +2798,7 @@
     "name": "GNANA --> iBFR",
     "rewardPerBlock": 342086298263888888,
     "startBlock": 12485224,
-    "bonusEndBlock": 17669224,
-    "abi": ""
+    "bonusEndBlock": 17669224
   },
   {
     "sousId": 136,
@@ -2869,8 +2836,7 @@
     "name": "GNANA --> SATA",
     "rewardPerBlock": 115451388888888888,
     "startBlock": 12514950,
-    "bonusEndBlock": 16834950,
-    "abi": ""
+    "bonusEndBlock": 16834950
   },
   {
     "sousId": 137,
@@ -2908,8 +2874,7 @@
     "rewardPerBlock": 34722222222222222,
     "startBlock": 12626034,
     "bonusEndBlock": 16946034,
-    "name": "GNANA --> LICO",
-    "abi": ""
+    "name": "GNANA --> LICO"
   },
   {
     "sousId": 138,
@@ -2947,8 +2912,7 @@
     "name": "GNANA --> LIME",
     "rewardPerBlock": 507986111111111111,
     "startBlock": 12681526,
-    "bonusEndBlock": 16137526,
-    "abi": ""
+    "bonusEndBlock": 16137526
   },
   {
     "sousId": 139,
@@ -2986,8 +2950,7 @@
     "name": "GNANA --> FXS",
     "rewardPerBlock": 5772569444444444,
     "startBlock": 12708667,
-    "bonusEndBlock": 15300667,
-    "abi": ""
+    "bonusEndBlock": 15300667
   },
   {
     "sousId": 140,
@@ -3025,8 +2988,7 @@
     "name": "GNANA --> RELAY",
     "rewardPerBlock": 4498015873015873,
     "startBlock": 12790620,
-    "bonusEndBlock": 16822620,
-    "abi": ""
+    "bonusEndBlock": 16822620
   },
   {
     "sousId": 141,
@@ -3064,8 +3026,7 @@
     "name": "GNANA --> QUIDD",
     "rewardPerBlock": 47315827546296296,
     "startBlock": 12797405,
-    "bonusEndBlock": 17981405,
-    "abi": ""
+    "bonusEndBlock": 17981405
   },
   {
     "sousId": 142,
@@ -3103,8 +3064,7 @@
     "name": "BANANA -> MONI",
     "rewardPerBlock": 31041859567901234,
     "startBlock": 12816793,
-    "bonusEndBlock": 18000793,
-    "abi": ""
+    "bonusEndBlock": 18000793
   },
   {
     "sousId": 143,
@@ -3142,8 +3102,7 @@
     "name": "GNANA -> INFO",
     "rewardPerBlock": 641396527777777800,
     "startBlock": 12845223,
-    "bonusEndBlock": 17165223,
-    "abi": ""
+    "bonusEndBlock": 17165223
   },
   {
     "sousId": 144,
@@ -3181,8 +3140,7 @@
     "name": "GNANA -> SHILL",
     "rewardPerBlock": 18827314814814814,
     "startBlock": 12902325,
-    "bonusEndBlock": 17222325,
-    "abi": ""
+    "bonusEndBlock": 17222325
   },
   {
     "sousId": 145,
@@ -3261,8 +3219,7 @@
     "name": "GNANA -> HERA",
     "rewardPerBlock": 23090277777777777,
     "startBlock": 13114581,
-    "bonusEndBlock": 14842581,
-    "abi": ""
+    "bonusEndBlock": 14842581
   },
   {
     "sousId": 148,
@@ -3300,8 +3257,7 @@
     "name": "GNANA -> GMEE",
     "rewardPerBlock": 276112654320987654,
     "startBlock": 13141805,
-    "bonusEndBlock": 15733805,
-    "abi": ""
+    "bonusEndBlock": 15733805
   },
   {
     "sousId": 149,
@@ -3339,8 +3295,7 @@
     "name": "GNANA -> ARV",
     "rewardPerBlock": 7400730015,
     "startBlock": 13222383,
-    "bonusEndBlock": 15814383,
-    "abi": ""
+    "bonusEndBlock": 15814383
   },
   {
     "sousId": 150,
@@ -3378,8 +3333,7 @@
     "name": "GNANA -> rASKO",
     "rewardPerBlock": 4675632804232803902,
     "startBlock": 13227144,
-    "bonusEndBlock": 19275144,
-    "abi": ""
+    "bonusEndBlock": 19275144
   },
   {
     "sousId": 151,
@@ -3417,8 +3371,7 @@
     "name": "GNANA -> PEL",
     "rewardPerBlock": 9620949074074074,
     "startBlock": 13331200,
-    "bonusEndBlock": 18515200,
-    "abi": ""
+    "bonusEndBlock": 18515200
   },
   {
     "sousId": 152,
@@ -3456,8 +3409,7 @@
     "name": "GNANA -> STZ",
     "rewardPerBlock": 33482253086419753,
     "startBlock": 13388465,
-    "bonusEndBlock": 18572465,
-    "abi": ""
+    "bonusEndBlock": 18572465
   },
   {
     "sousId": 153,
@@ -3495,8 +3447,7 @@
     "name": "GNANA -> QA",
     "rewardPerBlock": 1199604552469135802,
     "startBlock": 13503159,
-    "bonusEndBlock": 18687159,
-    "abi": ""
+    "bonusEndBlock": 18687159
   },
   {
     "sousId": 154,
@@ -3534,8 +3485,7 @@
     "name": "GNANA -> LOA",
     "rewardPerBlock": 61574074074074074,
     "startBlock": 13507845,
-    "bonusEndBlock": 18691845,
-    "abi": ""
+    "bonusEndBlock": 18691845
   },
   {
     "sousId": 155,
@@ -3573,8 +3523,7 @@
     "name": "GNANA -> ADS",
     "rewardPerBlock": 902777777,
     "startBlock": 13531815,
-    "bonusEndBlock": 17851815,
-    "abi": ""
+    "bonusEndBlock": 17851815
   },
   {
     "sousId": 156,
@@ -3612,8 +3561,7 @@
     "name": "GNANA -> KAI",
     "rewardPerBlock": 827401620370370370,
     "startBlock": 13560471,
-    "bonusEndBlock": 18744471,
-    "abi": ""
+    "bonusEndBlock": 18744471
   },
   {
     "sousId": 157,
@@ -3653,8 +3601,7 @@
     "name": "GNANA -> DOSE",
     "rewardPerBlock": 299904899691358024,
     "startBlock": 13589211,
-    "bonusEndBlock": 18773211,
-    "abi": ""
+    "bonusEndBlock": 18773211
   },
   {
     "sousId": 158,
@@ -3692,8 +3639,7 @@
     "name": "GNANA -> ORE",
     "rewardPerBlock": 192418981,
     "startBlock": 13621573,
-    "bonusEndBlock": 18805573,
-    "abi": ""
+    "bonusEndBlock": 18805573
   },
   {
     "sousId": 159,
@@ -3731,8 +3677,7 @@
     "name": "GNANA -> MYRA",
     "rewardPerBlock": 36078559027777777,
     "startBlock": 13646767,
-    "bonusEndBlock": 18830767,
-    "abi": ""
+    "bonusEndBlock": 18830767
   },
   {
     "sousId": 160,
@@ -3772,8 +3717,7 @@
     "name": "BANANA -> GODZ",
     "rewardPerBlock": 57725694444444444,
     "startBlock": 13674858,
-    "bonusEndBlock": 17130858,
-    "abi": ""
+    "bonusEndBlock": 17130858
   },
   {
     "sousId": 161,
@@ -3811,8 +3755,7 @@
     "name": "GNANA -> MNFT",
     "rewardPerBlock": 1929012343750000000,
     "startBlock": 13703600,
-    "bonusEndBlock": 15431600,
-    "abi": ""
+    "bonusEndBlock": 15431600
   },
   {
     "sousId": 162,
@@ -3852,8 +3795,7 @@
     "name": "BANANA -> GMR",
     "rewardPerBlock": 303652968036529680,
     "startBlock": 13732333,
-    "bonusEndBlock": 24244333,
-    "abi": ""
+    "bonusEndBlock": 24244333
   },
   {
     "sousId": 163,
@@ -3893,8 +3835,7 @@
     "name": "BANANA -> ONT",
     "rewardPerBlock": 27330864197530868,
     "startBlock": 13793505,
-    "bonusEndBlock": 16385505,
-    "abi": ""
+    "bonusEndBlock": 16385505
   },
   {
     "sousId": 164,
@@ -3934,8 +3875,7 @@
     "name": "BANANA -> ONG",
     "rewardPerBlock": 14892104,
     "startBlock": 13822247,
-    "bonusEndBlock": 18142247,
-    "abi": ""
+    "bonusEndBlock": 18142247
   },
   {
     "sousId": 165,
@@ -3975,8 +3915,7 @@
     "name": "BANANA -> NAUT",
     "rewardPerBlock": 1569357,
     "startBlock": 13851006,
-    "bonusEndBlock": 17307006,
-    "abi": ""
+    "bonusEndBlock": 17307006
   },
   {
     "sousId": 166,
@@ -4014,8 +3953,7 @@
     "name": "GNANA -> ZIG",
     "rewardPerBlock": 250769290123456790,
     "startBlock": 13879730,
-    "bonusEndBlock": 19063730,
-    "abi": ""
+    "bonusEndBlock": 19063730
   },
   {
     "sousId": 167,
@@ -4053,8 +3991,7 @@
     "name": "GNANA -> DEP",
     "rewardPerBlock": 503472222222222222,
     "startBlock": 13908510,
-    "bonusEndBlock": 16500510,
-    "abi": ""
+    "bonusEndBlock": 16500510
   },
   {
     "sousId": 168,
@@ -4092,8 +4029,7 @@
     "name": "GNANA -> MOONLIGHT",
     "rewardPerBlock": 2601273148150000,
     "startBlock": 13937300,
-    "bonusEndBlock": 19121300,
-    "abi": ""
+    "bonusEndBlock": 19121300
   },
   {
     "sousId": 169,
@@ -4131,8 +4067,7 @@
     "name": "GNANA -> LAND",
     "rewardPerBlock": 3325810185185185,
     "startBlock": 13966085,
-    "bonusEndBlock": 15694085,
-    "abi": ""
+    "bonusEndBlock": 15694085
   },
   {
     "sousId": 170,
@@ -4170,8 +4105,7 @@
     "name": "GNANA -> SPACE",
     "rewardPerBlock": 5246913580246913,
     "startBlock": 13994833,
-    "bonusEndBlock": 16586833,
-    "abi": ""
+    "bonusEndBlock": 16586833
   },
   {
     "sousId": 171,
@@ -4210,8 +4144,7 @@
     "name": "GNANA -> WATCH",
     "rewardPerBlock": 79089506172839506,
     "startBlock": 14023616,
-    "bonusEndBlock": 19207616,
-    "abi": ""
+    "bonusEndBlock": 19207616
   },
   {
     "sousId": 172,
@@ -4249,8 +4182,7 @@
     "name": "GNANA -> LMT",
     "rewardPerBlock": 395784143518518518,
     "startBlock": 14052311,
-    "bonusEndBlock": 17508311,
-    "abi": ""
+    "bonusEndBlock": 17508311
   },
   {
     "sousId": 173,
@@ -4288,8 +4220,7 @@
     "name": "GNANA -> GMR",
     "rewardPerBlock": 290167824074074074,
     "startBlock": 14081076,
-    "bonusEndBlock": 19265076,
-    "abi": ""
+    "bonusEndBlock": 19265076
   },
   {
     "sousId": 174,
@@ -4329,8 +4260,7 @@
     "name": "BANANA -> TXL",
     "rewardPerBlock": 96113040120000000,
     "startBlock": 14109771,
-    "bonusEndBlock": 19293771,
-    "abi": ""
+    "bonusEndBlock": 19293771
   },
   {
     "sousId": 175,
@@ -4370,8 +4300,7 @@
     "name": "BANANA -> BCMC",
     "rewardPerBlock": 33096064814814814,
     "startBlock": 14281040,
-    "bonusEndBlock": 19465040,
-    "abi": ""
+    "bonusEndBlock": 19465040
   },
   {
     "sousId": 176,
@@ -4411,8 +4340,7 @@
     "name": "BANANA -> ARI",
     "rewardPerBlock": 1154513888888888888,
     "startBlock": 14336184,
-    "bonusEndBlock": 20384184,
-    "abi": ""
+    "bonusEndBlock": 20384184
   },
   {
     "sousId": 177,
@@ -4453,8 +4381,7 @@
     "name": "BANANA -> NFTY",
     "rewardPerBlock": 73888888888888888,
     "startBlock": 14649181,
-    "bonusEndBlock": 18969181,
-    "abi": ""
+    "bonusEndBlock": 18969181
   },
   {
     "sousId": 178,
@@ -4494,8 +4421,7 @@
     "name": "BANANA -> LUNR",
     "rewardPerBlock": 549,
     "startBlock": 14855155,
-    "bonusEndBlock": 20039155,
-    "abi": ""
+    "bonusEndBlock": 20039155
   },
   {
     "sousId": 179,
@@ -4533,8 +4459,7 @@
     "name": "GNANA -> TRUSTNFT",
     "rewardPerBlock": 2204585455246913580,
     "startBlock": 14934231,
-    "bonusEndBlock": 20118231,
-    "abi": ""
+    "bonusEndBlock": 20118231
   },
   {
     "sousId": 180,
@@ -4574,8 +4499,7 @@
     "name": "BANANA -> WGICT",
     "rewardPerBlock": 1903044,
     "startBlock": 15280238,
-    "bonusEndBlock": 20521838,
-    "abi": ""
+    "bonusEndBlock": 20521838
   },
   {
     "sousId": 181,
@@ -4615,8 +4539,7 @@
     "name": "BANANA -> MNFT",
     "rewardPerBlock": 954861111111111111,
     "startBlock": 15492154,
-    "bonusEndBlock": 17220154,
-    "abi": ""
+    "bonusEndBlock": 17220154
   },
   {
     "sousId": 182,
@@ -4656,8 +4579,7 @@
     "name": "BANANA -> BUZZ",
     "rewardPerBlock": 1622533564814814814,
     "startBlock": 15513944,
-    "bonusEndBlock": 17241944,
-    "abi": ""
+    "bonusEndBlock": 17241944
   },
   {
     "sousId": 183,
@@ -4697,8 +4619,7 @@
     "name": "BANANA -> RANKER",
     "rewardPerBlock": 667348765432098765,
     "startBlock": 15657188,
-    "bonusEndBlock": 18249188,
-    "abi": ""
+    "bonusEndBlock": 18249188
   },
   {
     "sousId": 185,
@@ -4738,8 +4659,7 @@
     "name": "BANANA -> WGICT",
     "rewardPerBlock": 1903009,
     "startBlock": 15685946,
-    "bonusEndBlock": 16549946,
-    "abi": ""
+    "bonusEndBlock": 16549946
   },
   {
     "sousId": 187,
@@ -4779,8 +4699,7 @@
     "name": "BANANA -> HOTCROSS",
     "rewardPerBlock": 222087191358024691,
     "startBlock": 15690652,
-    "bonusEndBlock": 20874652,
-    "abi": ""
+    "bonusEndBlock": 20874652
   },
   {
     "sousId": 188,
@@ -4820,8 +4739,7 @@
     "name": "BANANA -> FRONT",
     "rewardPerBlock": 38387345679012345,
     "startBlock": 15800709,
-    "bonusEndBlock": 20984709,
-    "abi": ""
+    "bonusEndBlock": 20984709
   },
   {
     "sousId": 190,
@@ -4859,8 +4777,7 @@
     "name": "BANANA -> ANML",
     "rewardPerBlock": 8573388117283950617,
     "startBlock": 16484242,
-    "bonusEndBlock": 21668242,
-    "abi": ""
+    "bonusEndBlock": 21668242
   },
   {
     "sousId": 193,
@@ -4900,8 +4817,7 @@
     "name": "BANANA -> BOUNTIE",
     "rewardPerBlock": 990789351851851851,
     "startBlock": 16863972,
-    "bonusEndBlock": 24639972,
-    "abi": ""
+    "bonusEndBlock": 24639972
   },
   {
     "sousId": 194,
@@ -4939,8 +4855,7 @@
     "name": "GNANA -> DEP",
     "rewardPerBlock": 526796875000000000,
     "startBlock": 16921374,
-    "bonusEndBlock": 23833374,
-    "abi": ""
+    "bonusEndBlock": 23833374
   },
   {
     "sousId": 195,
@@ -4978,8 +4893,7 @@
     "name": "GNANA -> ANKR",
     "rewardPerBlock": 496031746031746031,
     "startBlock": 17087971,
-    "bonusEndBlock": 18700771,
-    "abi": ""
+    "bonusEndBlock": 18700771
   },
   {
     "sousId": 196,
@@ -5019,8 +4933,7 @@
     "name": "BANANA -> KTE",
     "rewardPerBlock": 159142939814814814,
     "startBlock": 17141820,
-    "bonusEndBlock": 18869820,
-    "abi": ""
+    "bonusEndBlock": 18869820
   },
   {
     "sousId": 197,
@@ -5058,8 +4971,7 @@
     "name": "GNANA -> GQ",
     "rewardPerBlock": 689409722222222222,
     "startBlock": 17207600,
-    "bonusEndBlock": 22391600,
-    "abi": ""
+    "bonusEndBlock": 22391600
   },
   {
     "sousId": 198,
@@ -5099,8 +5011,7 @@
     "name": "BANANA -> ASPO",
     "rewardPerBlock": 642746527777777777,
     "startBlock": 17260026,
-    "bonusEndBlock": 18988026,
-    "abi": ""
+    "bonusEndBlock": 18988026
   },
   {
     "sousId": 199,
@@ -5140,8 +5051,7 @@
     "name": "BANANA -> BICO",
     "rewardPerBlock": 15468750000000000,
     "startBlock": 17323224,
-    "bonusEndBlock": 19051224,
-    "abi": ""
+    "bonusEndBlock": 19051224
   },
   {
     "sousId": 200,
@@ -5179,8 +5089,7 @@
     "name": "GNANA -> CPO",
     "rewardPerBlock": 540142746913580246,
     "startBlock": 17345796,
-    "bonusEndBlock": 22529796,
-    "abi": ""
+    "bonusEndBlock": 22529796
   },
   {
     "sousId": 202,
@@ -5218,8 +5127,7 @@
     "name": "GNANA -> Froyo",
     "rewardPerBlock": 558215133101851851,
     "startBlock": 17379043,
-    "bonusEndBlock": 24291043,
-    "abi": ""
+    "bonusEndBlock": 24291043
   },
   {
     "sousId": 203,
@@ -5257,8 +5165,7 @@
     "name": "GNANA -> PRIMATE",
     "rewardPerBlock": 439506172839506172,
     "startBlock": 17374208,
-    "bonusEndBlock": 22558208,
-    "abi": ""
+    "bonusEndBlock": 22558208
   },
   {
     "sousId": 205,
@@ -5296,8 +5203,45 @@
     "name": "GNANA -> GRVS",
     "rewardPerBlock": 458237847222222222,
     "startBlock": 17886660,
-    "bonusEndBlock": 19614660,
-    "abi": ""
+    "bonusEndBlock": 19614660
+  },
+  {
+    "sousId": 210,
+    "tokenName": "BONES",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BONES.png",
+    "stakingToken": {
+      "symbol": "BONES-BNB",
+      "address": {
+        "56": "0xe0900Db57d81DE4E6a13e90eb836Fa91Be50515A"
+      },
+      "decimals": 18,
+      "lpToken": true
+    },
+    "rewardToken": {
+      "symbol": "BONES",
+      "address": {
+        "56": "0x08426874d46f90e5E527604fA5E3e30486770Eb3"
+      },
+      "decimals": 18
+    },
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x84291c0e6b19cc833afc491561aacfbdd6885d63"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://moonshots.farm/",
+    "twitter": "https://twitter.com/MoonshotsFarm",
+    "harvest": true,
+    "tokenPerBlock": "0.224606095679012345",
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "chainId": 56,
+    "name": "BONES-BNB -> BONES",
+    "rewardPerBlock": 224606095679012345,
+    "startBlock": 18206360,
+    "bonusEndBlock": 20798360
   },
   {
     "sousId": 204,
